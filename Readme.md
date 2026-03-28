@@ -105,7 +105,7 @@ python scripts/fetch_stock.py
 
 ### 👤 Author
 Syed Jamal ur Rahman
-/n Aspiring Data Engineer | Python | PySpark | Data Analytics
+* Aspiring Data Engineer | Python | PySpark | Data Analytics
 
 ### ⭐ Acknowledgements
 * Yahoo Finance API for providing stock data
