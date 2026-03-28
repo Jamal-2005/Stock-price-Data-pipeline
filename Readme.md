@@ -92,21 +92,21 @@ python scripts/fetch_stock.py
 --> Run the notebook in databricks/ folder
 
 ### 📈 Use Cases
-Financial data analysis
-Trend detection
-Algorithmic trading simulation
-Real-time analytics pipelines
+* Financial data analysis
+* Trend detection
+* Algorithmic trading simulation
+* Real-time analytics pipelines
 
 ### 🔮 Future Enhancements
-Integrate real-time streaming (Kafka / Kinesis)
-Add dashboard (Power BI / Streamlit)
-Implement alert system for price spikes
-Automate pipeline scheduling
+* Integrate real-time streaming (Kafka / Kinesis)
+* Add dashboard (Power BI / Streamlit)
+* Implement alert system for price spikes
+* Automate pipeline scheduling
 
 ### 👤 Author
 Jamal
 Aspiring Data Engineer | Python | PySpark | Data Analytics
 
 ### ⭐ Acknowledgements
-Yahoo Finance API for providing stock data
-Databricks Community Edition for analytics platform
+* Yahoo Finance API for providing stock data
+* Databricks Community Edition for analytics platform
