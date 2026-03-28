@@ -104,8 +104,8 @@ python scripts/fetch_stock.py
 * Automate pipeline scheduling
 
 ### 👤 Author
-Jamal
-Aspiring Data Engineer | Python | PySpark | Data Analytics
+Syed Jamal ur Rahman
+/n Aspiring Data Engineer | Python | PySpark | Data Analytics
 
 ### ⭐ Acknowledgements
 * Yahoo Finance API for providing stock data
